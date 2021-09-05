@@ -1,7 +1,9 @@
 {
   "name": "first-app",
   "version": "0.1.0",
-  "private": true,
+  "private": true,"engines": {
+    "node": "16.4.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
